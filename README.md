@@ -55,9 +55,3 @@
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Medo-skb&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Medo-skb GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medo-skb&layout=compact&hide_border=true&theme=transparent" alt="Medo-skb top languages">
-</div>
