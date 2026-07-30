@@ -1,6 +1,6 @@
 # Medo-skb
 
-웹·백엔드 개발자
+웹·백엔드 개발자. 클라우드·서버 공부중
 
 ## Projects
 
@@ -19,7 +19,7 @@
 - 담당: 팀장, 결제·환불, 포인트·쿠폰, DB 설계, AI 리뷰 요약
 - 기술: Java, Spring Boot, MyBatis, MySQL, Vue, PortOne, Gemini
 
-### YamYamRoad
+### [YamYamRoad](https://github.com/Seokjae-Jang-git/YamYamRoad)
 
 지역 디저트 가게 정보와 스탬프·포인트 기능을 제공하는 서비스
 
